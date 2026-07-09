@@ -98,7 +98,6 @@ You can add screenshots of:
 ---
 
 ## 👨‍💻 Author
-
-**Devraj Rana**
+Jankiba Mangrola
 
 Engineering Student | AI & Machine Learning Enthusiast
