@@ -1,0 +1,7 @@
+gradio
+PyMuPDF
+langchain
+faiss-cpu
+sentence-transformers
+groq
+python-dotenv
