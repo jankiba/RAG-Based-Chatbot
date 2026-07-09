@@ -40,7 +40,6 @@ RAG-Based-Chatbot/
 ├── ragpdfchatbot.py
 ├── requirements.txt
 ├── README.md
-└── sample.pdf (optional)
 ```
 
 ---
